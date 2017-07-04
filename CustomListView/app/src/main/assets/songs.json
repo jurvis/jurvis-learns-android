@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Strobelite",
+    "artist": "Gorillaz",
+    "duration": 273,
+    "album_url": "http://hiphopdx-production.s3.amazonaws.com/2017/03/Gorillaz-Humanz-album-cover-art.jpg"
+  },
+  {
+    "title": "Want You Back",
+    "artist": "HAIM",
+    "duration": 233,
+    "album_url": "http://static.spin.com/files/2017/05/haim-want-you-back-1493758571-640x640.jpeg"
+  },
+  {
+    "title": "Sintra",
+    "artist": "Flume",
+    "duration": 283,
+    "album_url": "https://images-na.ssl-images-amazon.com/images/I/91MB%2BeWlgOL._SL1500_.jpg"
+  },
+  {
+    "title": "Say It - Illenium Remix",
+    "artist": "Flume",
+    "duration": 283,
+    "album_url": "http://cdn.youredm.com/wp-content/uploads/2017/04/Flume-Remixes.jpg?x56677"
+  }
+]
